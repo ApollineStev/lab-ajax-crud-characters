@@ -29,4 +29,4 @@ class APIHandler {
   }
 }
 
-module.exports = APIHandler
+//module.exports = APIHandler
